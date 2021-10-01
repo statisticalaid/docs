@@ -64,6 +64,7 @@ For further details on regression metrics, read the following articles:
 
 - [Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit?](https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
 - [How To Interpret R-squared in Regression Analysis](https://statisticsbyjim.com/regression/interpret-r-squared-regression)
+- [Regression analysis with its types, objectives and applications](https://www.statisticalaid.com/regression-analysis-with-its-types-objectives-and-application/)
 - [R-Squared Definition](https://www.investopedia.com/terms/r/r-squared.asp)
 - [The Coefficient of Determination and the Assumptions of Linear Regression Models](https://programmathically.com/the-coefficient-of-determination-and-linear-regression-assumptions/)
 - [Mean Squared Error Definition](https://www.statisticshowto.datasciencecentral.com/mean-squared-error/)
